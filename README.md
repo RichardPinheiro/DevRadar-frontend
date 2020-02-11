@@ -1,41 +1,57 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+   Dvelopers radar
+</h1>
 
-## Available Scripts
+<h4 align="center">
+  Dvelopers radar frontend API
+</h4>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
 
-### `yarn start`
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
+  
+  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
+  </a>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
+  </a>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<p align="center">
+  <a href="#tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#How-to-contribute">How to contribute</a>
+</p>
 
-### `yarn test`
+<br>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies
 
-### `yarn build`
+This project was developed with the following technologies:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://reactjs.org)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 💻 Project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Developers Radar is a project that aims to connect developers close to you who work with the same technologies.
 
-### `yarn eject`
+## 💻 To run this project
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* [Install yarn](https://classic.yarnpkg.com/en/docs/install)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* **And run:** `$ yarn start`
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## How to contribute
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b minha-feature`;
+- Commit your changes: `git commit -m 'feat: Minha nova feature'`;
+- Push to your branch: `git push origin minha-feature`.
+
+After the merge of your pull request is done, you can delete your branch.
 
 ## Learn More
 
@@ -66,3 +82,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Authors
+
+* **Richard Pinheiro** - [GitHub](https://github.com/RichardPinheiro)
